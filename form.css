@@ -1,0 +1,79 @@
+
+.login {
+    height: 100%;
+    width: 100%;
+    background-image: url("https://images.unsplash.com/photo-1458724204880-8a3555bb5003?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80");
+    background-size: cover;
+    position: absolute;
+}
+.form-box {
+    width: 380px;
+    height: 380px;
+    position: relative;
+    margin: 6% auto;
+    background-color: #ecd9c6;
+    padding: 5px;
+}
+.container {
+    width: 20%;
+    margin-top: 5%;
+    padding: 30px;
+    margin-left: 100px;
+    margin-right: 350px;
+}
+.input-group {
+    top: 100px;
+    position: absolute;
+    width: 280px;
+    margin-left: 50px;
+    margin-right: 200px;
+    transition: .5s;
+    margin-top: 0%;
+    left: -1px;
+}
+
+.icon-s {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left:-5px;
+    bottom: 125px;
+}
+.input-field  {
+    width: 100%;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1 px salmon;
+    outline: none;
+    background: transparent;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tombol {
+    width: 95%; 
+    padding: 10px 20px;
+    display: block;
+    margin: auto;
+    background-color: #996633;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+    
+}
+.chech-box {
+    margin: 5px 0px 30px 0;
+    padding: 10px;
+}
+.span {
+    font-size: 12;
+    bottom: 60px;
+    position: absolute;
+}
+.label {
+    margin: 100px auto;
+    text-align: center;
+    position: absolute;
+}
+
